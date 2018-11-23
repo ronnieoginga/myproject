@@ -3,7 +3,7 @@
 /* } */
 body {
     background-color: lightblue;
-/* } */
+}
 
 h1 {
     color: white;
@@ -14,4 +14,9 @@ h1 {
 p {
     font-family: verdana;
     font-size: 20px;
+}
+img{
+  width: 250px;
+  height: 300px;
+  float: left;
 }
