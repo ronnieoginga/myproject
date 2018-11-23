@@ -19,7 +19,7 @@ p {
 img{
   width: 250px;
   height: 300px;
-  float: left;
+  float: none;
 }
 ul>li{
   display: inline;
