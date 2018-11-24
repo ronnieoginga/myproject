@@ -2,7 +2,8 @@
   /* background-image:url(images/tbt.jpg) alt="A photo of me on facebook"> */
 /* } */
 body {
-    background-color: lightblue;
+    background-color: #535453;
+    color: black;
 }
 
 h1 {
@@ -14,14 +15,31 @@ h1 {
 p {
     font-family: verdana;
     font-size: 20px;
-    color: red;
-}
-img{
-  width: 250px;
-  height: 300px;
-  float: none;
+    /* color: red; */
 }
 ul>li{
   display: inline;
   text-transform:uppercase;
+  float:right;
+  padding:5px;
+  color:white;
+  background-color:white;
+  color:black;
+  text-decoration:none;
+   }
+h2{
+  padding-top:110px;
+}
+
+img{
+  column-rule-width:2px;
+  width:380px;
+  height:280px;
+}
+.images{
+  float:right;
+  padding-right:100px;
+  
+  /* column-width:500px; */
+  display:block;
 }
