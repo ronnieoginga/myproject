@@ -4,7 +4,10 @@
 body {
     background-color: #c2c6b8;
     color: black;
-     background-image: url("paper.gif");
+     background-image: url("https://discourse-cdn-sjc1.com/business4/uploads/episodeinteractive/optimized/3X/b/2/b252dabdb6df2cef766266cf78f6887f4d75ca7f_1_690x408.jpg");
+     background-position: center; /* Center the image */
+     background-repeat: no-repeat; /* Do not repeat the image */
+     background-size: cover;
 }
 
 h1 {
