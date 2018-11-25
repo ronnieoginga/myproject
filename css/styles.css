@@ -17,7 +17,7 @@ h1 {
 }
 
 p {
-    font-family: verdana;
+    /* font-family: verdana; */
     font-size: 20px;
     /* color: red; */
 }
@@ -39,11 +39,11 @@ img{
   column-rule-width:2px;
   width:380px;
   height:280px;
+  /* float:left; */
 }
-.images{
-  float:right;
-  padding-right:100px;
-
-  /* column-width:500px; */
-  display:block;
+.display{
+  float: left;
+}
+.mombasa{
+  float: left;
 }
