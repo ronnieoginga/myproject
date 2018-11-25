@@ -2,8 +2,9 @@
   /* background-image:url(images/tbt.jpg) alt="A photo of me on facebook"> */
 /* } */
 body {
-    background-color: #535453;
+    background-color: #c2c6b8;
     color: black;
+     background-image: url("paper.gif");
 }
 
 h1 {
@@ -39,7 +40,7 @@ img{
 .images{
   float:right;
   padding-right:100px;
-  
+
   /* column-width:500px; */
   display:block;
 }
