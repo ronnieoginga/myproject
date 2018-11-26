@@ -46,7 +46,23 @@ img{
 }
 .mombasa{
   float: left;
+  /* padding-top:; */
+  clear: left;
 }
 .moringa{
   float: left;
+  /* padding-top:110px; */
+}
+.dubai{
+  float: left;
+  /* text-align: right; */
+  /* padding-top:110px; */
+  clear: left;
+}
+.mombasa>p{
+  clear: right;
+float: left;
+}
+.ol{
+  padding-top:10px;
 }
