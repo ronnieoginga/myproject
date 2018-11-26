@@ -4,7 +4,7 @@
 body {
     background-color: #c2c6b8;
     color: black;
-     /* background-image: url("https://discourse-cdn-sjc1.com/business4/uploads/episodeinteractive/optimized/3X/b/2/b252dabdb6df2cef766266cf78f6887f4d75ca7f_1_690x408.jpg"); */
+     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CvdrA0va6uk6eWlYnCd1n0fLBuqMuU85gnHUQavMqkXpsXJh");
      background-position: center; /* Center the image */
      background-repeat: no-repeat; /* Do not repeat the image */
      background-size: cover;
@@ -44,25 +44,9 @@ img{
 .display{
   float: left;
 }
-.mombasa{
-  float: left;
-  /* padding-top:; */
-  clear: left;
-}
-.moringa{
-  float: left;
-  /* padding-top:110px; */
-}
-.dubai{
-  float: left;
-  /* text-align: right; */
-  /* padding-top:110px; */
-  clear: left;
-}
-.mombasa>p{
-  clear: right;
-float: left;
-}
+
+
+
 .ol{
   padding-top:10px;
 }
@@ -71,4 +55,8 @@ float: left;
   width: 300px;
   height: 100px;
   overflow: auto;
+}
+img{
+  float: left;
+  padding-top: 10px;
 }
